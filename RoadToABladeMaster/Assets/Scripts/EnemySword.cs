@@ -6,6 +6,8 @@ public class EnemySword : MonoBehaviour
 {
     public Health HP_Component;
 
+    public Health Enemy_HP_Component;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -24,11 +26,11 @@ public class EnemySword : MonoBehaviour
         other.tag = "Player";
         if (other.tag == HP_Component.tag)
         {
-            var hpComponent = HP_Component.GetComponent<Health>();
+            var hpComponent = Enemy_HP_Component.GetComponent<Health>();
 
-            hpComponent.TakeDamage(1);
+            hpComponent.Points(1);
 
-            Debug.Log("Works es");
+            //Debug.Log("Works es");
         }
     }
 }

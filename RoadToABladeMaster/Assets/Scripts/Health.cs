@@ -20,7 +20,7 @@ public class Health : MonoBehaviour
         //Debug.Log("Health " + currentHP);
     }
 
-    public void TakeDamage(float damage)
+    public void Points(float damage)
     {
         currentHP += damage;
     }
