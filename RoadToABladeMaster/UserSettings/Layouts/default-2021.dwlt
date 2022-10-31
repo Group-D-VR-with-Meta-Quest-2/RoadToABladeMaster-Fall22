@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 228
     height: 939
-  m_MinSize: {x: 301, y: 401}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 300, y: 380}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 95
+  controlID: 108
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -121,8 +121,8 @@ MonoBehaviour:
     y: 0
     width: 210
     height: 602
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 85
+  controlID: 88
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 86
+  controlID: 89
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -505,22 +505,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scenes/MainGameScene
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scenes/MainGameScene
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Projects\GameEngine-GroupD\RoadToABladeMaster-Fall22\RoadToABladeMaster
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a6680000
-    m_LastClickedID: 26790
-    m_ExpandedIDs: 00000000f667000000ca9a3b
+    m_SelectedIDs: ae640000
+    m_LastClickedID: 25774
+    m_ExpandedIDs: 0000000092640000a464000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -548,7 +548,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f6670000
+    m_ExpandedIDs: 0000000092640000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -592,7 +592,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 6}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -678,9 +678,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 94c40000
+      m_SelectedIDs: b2640000
       m_LastClickedID: 0
-      m_ExpandedIDs: 0237ffffda3effff107fffffec89ffff1a93ffff4c98ffff6498ffffb098ffff60dcffffc8f9ffffe8650000ac6600007e7e00004e830000b0830000
+      m_ExpandedIDs: 64e9ffff48ebffffacf3ffffd8f6ffffa6f9ffff2cfbffff74650000e0690000d26c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -930,9 +930,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -254.85382, y: 0.25745964, z: -320.12067}
+    m_Target: {x: 529, y: 280, z: 0}
     speed: 2
-    m_Value: {x: -254.85382, y: 0.25745964, z: -320.12067}
+    m_Value: {x: 529, y: 280, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -979,13 +979,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.008494674, y: -0.35056564, z: 0.0032576271, w: 0.9364132}
+    m_Target: {x: 0.016152564, y: -0.22570787, z: 0.003813078, w: 0.97397697}
     speed: 2
-    m_Value: {x: 0.008495317, y: -0.35059217, z: 0.0032578735, w: 0.93648404}
+    m_Value: {x: 0.016153771, y: -0.22572474, z: 0.003813363, w: 0.97404975}
   m_Size:
-    m_Target: 582.4756
+    m_Target: 81.394104
     speed: 2
-    m_Value: 582.4756
+    m_Value: 81.394104
   m_Ortho:
     m_Target: 0
     speed: 2
