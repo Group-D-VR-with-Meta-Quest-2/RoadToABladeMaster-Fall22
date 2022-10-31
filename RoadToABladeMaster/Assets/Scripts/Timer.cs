@@ -17,11 +17,12 @@ public class Timer : MonoBehaviour
 
     public Text WinLoseUI;
 
+    public Button RestartButton;
+
     // Start is called before the first frame update
     void Start()
     {
         TimerOn = true;
-
     }
 
     // Update is called once per frame
@@ -42,6 +43,7 @@ public class Timer : MonoBehaviour
                 GameoverUI.enabled = true;
                 GameoverUI.text = "GAME OVER";
                 WinLoseUI.enabled = true;
+                RestartButton.enabled = true;
                 GameOver();
             }
         }
