@@ -3,7 +3,10 @@
 
 Team Members: 
 
-Akib Mehedi | @akibIM 
+Akib Mehedi | @akibIM
+
 Narin Solomon | 
+
 Chunhao Tang | 
+
 Jorge Herrera
