@@ -5,7 +5,7 @@ Team Members:
 
 Akib Mehedi | @akibIM
 
-Narin Solomon | 
+Narin Solomon | @NarinSolomon
 
 Chunhao Tang | 
 
