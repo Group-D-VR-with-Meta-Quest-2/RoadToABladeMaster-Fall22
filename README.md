@@ -7,6 +7,6 @@ Akib Mehedi | @akibIM
 
 Narin Solomon | @NarinSolomon
 
-Chunhao Tang | 
+Chunhao Tang | @chtang313
 
 Jorge Herrera | 
