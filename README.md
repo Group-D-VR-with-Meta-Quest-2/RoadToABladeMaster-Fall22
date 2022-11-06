@@ -9,4 +9,4 @@ Narin Solomon | @NarinSolomon
 
 Chunhao Tang | @chtang313
 
-Jorge Herrera | 
+Jorge Herrera | @FutureJorge101
